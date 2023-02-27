@@ -7,14 +7,14 @@
 ---
 **Connect your learning from throughout this course to the larger field of computer science:**
   
-  -**What do computer scientists do and why does it matter?**
+  - *What do computer scientists do and why does it matter?**
   
   Computer scientists do a range of jobs, everything from creating code for websites, to developing AI that could assist in detecting cancer within a cat scan. Computer scientists help push the technology industry forward, as I stated above, everything from innovative website design to AI creation helps.
   
-  -**How do I approach a problem as a computer scientist?**
+  - **How do I approach a problem as a computer scientist?**
   
   I take a methodical approach typically. I identify the problem, list or research potential solutions, then implement the chosen solution. 
   
-  -**What are my ethical responsibilities to the end user and the organization?**
+  - **What are my ethical responsibilities to the end user and the organization?**
   
   My responsibility is to be ethical and do everything in my power from violating the end user and organizations rights. If the software will end up being invasive (data mining, facial recognition, etc), I'll refuse to complete the software and present ways to built the software without that requirement or attempt to prevent said project all together. I am a huge advocate for privacy and will always go the ethical route.
