@@ -7,7 +7,7 @@
 ---
 **Connect your learning from throughout this course to the larger field of computer science:**
   
-  - *What do computer scientists do and why does it matter?**
+  - **What do computer scientists do and why does it matter?**
   
   Computer scientists do a range of jobs, everything from creating code for websites, to developing AI that could assist in detecting cancer within a cat scan. Computer scientists help push the technology industry forward, as I stated above, everything from innovative website design to AI creation helps.
   
